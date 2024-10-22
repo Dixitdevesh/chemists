@@ -1,0 +1,234 @@
+ID,Name,Category,Quantity,Price
+M001,Paracetamol,Pain Reliever,100,5.00
+M002,Ibuprofen,Pain Reliever,150,8.00
+M003,Amoxicillin,Antibiotic,200,10.00
+M004,Metformin,Diabetes,90,4.00
+M005,Atorvastatin,Cholesterol,120,10.00
+M006,Lisinopril,Antihypertensive,80,5.00
+M007,Amlodipine,Antihypertensive,50,7.00
+M008,Omeprazole,Antacid,60,12.00
+M009,Simvastatin,Cholesterol,90,12.00
+M010,Levothyroxine,Thyroid Hormones,70,20.00
+M011,Warfarin,Blood Thinner,40,30.00
+M012,Hydrochlorothiazide,Diuretic,100,6.00
+M013,Sertraline,Antidepressant,80,15.00
+M014,Albuterol,Bronchodilator,120,25.00
+M015,Fluticasone,Nasal Spray,200,30.00
+M016,Montelukast,Leukotriene Modifiers,90,18.00
+M017,Prednisone,Corticosteroid,50,22.00
+M018,Ranitidine,Antacid,150,5.00
+M019,Clopidogrel,Blood Thinner,40,25.00
+M020,Digoxin,Heart Medication,30,35.00
+M021,Metoprolol,Antihypertensive,70,10.00
+M022,Quetiapine,Antipsychotic,60,20.00
+M023,Sitagliptin,Diabetes,80,22.00
+M024,Pioglitazone,Diabetes,90,25.00
+M025,Buspirone,Anxiolytic,60,20.00
+M026,Clonidine,Antihypertensive,70,14.00
+M027,Isosorbide,Antianginal,40,10.00
+M028,Montelukast,Leukotriene Modifiers,80,18.00
+M029,Celecoxib,Anti-inflammatory,120,22.00
+M030,Methotrexate,Cancer Treatment,50,45.00
+M031,Levothyroxine,Thyroid Hormones,140,20.00
+M032,Probenecid,Gout Medication,60,25.00
+M033,Allopurinol,Gout Medication,70,20.00
+M034,Naproxen,Anti-inflammatory,80,10.00
+M035,Diclofenac,Anti-inflammatory,100,12.00
+M036,Ezetimibe,Cholesterol,60,15.00
+M037,Alendronate,Osteoporosis,40,25.00
+M038,Calcium,Ca Supplements,120,10.00
+M039,Vitamin D,Vitamins,150,5.00
+M040,Vitamin C,Vitamins,200,4.00
+M041,Iron Supplements,Iron Supplements,250,8.00
+M042,Melatonin,Sleep Aids,70,15.00
+M043,Omega 3,Fish Oil,90,12.00
+M044,Glucosamine,Joint Care,50,30.00
+M045,Chondroitin,Joint Care,60,28.00
+M046,CoQ10,Heart Health,40,25.00
+M047,Turmeric,Anti-inflammatory,70,20.00
+M048,Ginger,Anti-inflammatory,60,15.00
+M049,Probiotic,Digestive Health,80,18.00
+M050,Magnesium,Supplements,90,10.00
+M051,Flaxseed,Health Supplements,110,8.00
+M052,Cinnamon,Health Supplements,120,7.00
+M053,Chamomile,Herbal,150,5.00
+M054,Echinacea,Herbal,130,10.00
+M055,Ginseng,Herbal,40,20.00
+M056,St. John's Wort,Herbal,60,15.00
+M057,Hibiscus,Herbal,50,12.00
+M058,Milk Thistle,Liver Health,70,20.00
+M059,Cranberry,Health Supplements,80,15.00
+M060,Propolis,Health Supplements,30,25.00
+M061,Aloe Vera,Health Supplements,100,8.00
+M062,Valerian Root,Sleep Aids,40,18.00
+M063,Lemon Balm,Sleep Aids,50,15.00
+M064,Passionflower,Sleep Aids,60,10.00
+M065,Rhodiola,Sleep Aids,40,25.00
+M066,Kava,Kava,20,30.00
+M067,Saw Palmetto,Prostate Disorders,50,15.00
+M068,Resveratrol,Health Supplements,70,18.00
+M069,Black Cohosh,Women's Health,40,25.00
+M070,Red Clover,Women's Health,30,22.00
+M071,Biotin,Hair Growth,80,12.00
+M072,Melatonin,Sleep Aids,70,20.00
+M073,Vitamin B12,Vitamins,90,10.00
+M074,Thiamine,Vitamins,100,5.00
+M075,Riboflavin,Vitamins,80,6.00
+M076,Nicotinamide,Vitamins,90,12.00
+M077,Vitamin K2,Vitamins,60,15.00
+M078,Choline,Brain Health,70,10.00
+M079,Lysine,Health Supplements,80,12.00
+M080,Curcumin,Anti-inflammatory,60,20.00
+M081,Green Tea Extract,Antioxidant,70,18.00
+M082,Boswellia,Anti-inflammatory,50,25.00
+M083,Spirulina,Health Supplements,90,15.00
+M084,Wheatgrass,Health Supplements,80,10.00
+M085,Barley Grass,Health Supplements,100,12.00
+M086,Noni Juice,Health Supplements,40,20.00
+M087,Acai Berry,Antioxidant,30,22.00
+M088,Goji Berries,Antioxidant,60,18.00
+M089,Camu Camu,Antioxidant,50,25.00
+M090,Pomegranate Extract,Antioxidant,40,30.00
+M091,Cocoa Powder,Health Supplements,30,12.00
+M092,Matcha,Health Supplements,20,15.00
+M093,Flavonoids,Antioxidant,50,18.00
+M094,Tart Cherry,Health Supplements,70,20.00
+M095,Chia Seeds,Health Supplements,90,10.00
+M096,Hemp Seeds,Health Supplements,80,12.00
+M097,Sunflower Seeds,Health Supplements,60,8.00
+M098,Pumpkin Seeds,Health Supplements,50,7.00
+M099,Sesame Seeds,Health Supplements,40,6.00
+M100,Coconut Oil,Health Supplements,30,15.00
+M101,Olive Oil,Health Supplements,80,10.00
+M102,Grapeseed Oil,Health Supplements,70,20.00
+M103,MCT Oil,Health Supplements,90,15.00
+M104,Apple Cider Vinegar,Health Supplements,60,12.00
+M105,Acacia Fiber,Digestive Health,40,10.00
+M106,Psyllium Husk,Digestive Health,50,20.00
+M107,Inulin,Digestive Health,60,18.00
+M108,Chicory Root,Digestive Health,70,25.00
+M109,Collagen,Joint Care,80,30.00
+M110,CBD Oil,Health Supplements,90,40.00
+M111,Black Seed Oil,Health Supplements,30,35.00
+M112,Moringa,Health Supplements,100,20.00
+M113,Beetroot,Health Supplements,60,15.00
+M114,Turmeric Curcumin,Anti-inflammatory,50,28.00
+M115,Resveratrol,Antioxidant,40,22.00
+M116,Astaxanthin,Antioxidant,30,35.00
+M117,Calcium Citrate,Ca Supplements,80,12.00
+M118,Calcium Carbonate,Ca Supplements,90,10.00
+M119,Magnesium Citrate,Supplements,70,15.00
+M120,Magnesium Oxide,Supplements,60,12.00
+M121,Zinc,Immune Support,100,8.00
+M122,Copper,Trace Minerals,90,6.00
+M123,Manganese,Trace Minerals,80,10.00
+M124,Selenium,Trace Minerals,70,15.00
+M125,Potassium,Electrolyte,60,8.00
+M126,Chlorophyll,Health Supplements,100,12.00
+M127,Propolis,Health Supplements,90,10.00
+M128,Gingko Biloba,Brain Health,80,20.00
+M129,Ginseng,Health Supplements,70,15.00
+M130,Licorice Root,Health Supplements,60,12.00
+M131,Milk Thistle,Liver Health,50,18.00
+M132,Reishi Mushroom,Health Supplements,40,25.00
+M133,Shiitake Mushroom,Health Supplements,30,20.00
+M134,Turkey Tail Mushroom,Health Supplements,20,30.00
+M135,Cordyceps,Health Supplements,60,22.00
+M136,Chaga Mushroom,Health Supplements,70,18.00
+M137,King Oyster Mushroom,Health Supplements,80,20.00
+M138,Portobello Mushroom,Health Supplements,90,15.00
+M139,Cilantro,Health Supplements,100,12.00
+M140,Basil,Health Supplements,90,10.00
+M141,Parsley,Health Supplements,80,15.00
+M142,Oregano,Health Supplements,70,10.00
+M143,Thyme,Health Supplements,60,12.00
+M144,Rosemary,Health Supplements,50,10.00
+M145,Curcumin,Health Supplements,40,20.00
+M146,Curry Powder,Health Supplements,30,8.00
+M147,Chili Powder,Health Supplements,20,5.00
+M148,Cayenne Pepper,Health Supplements,10,7.00
+M149,Cinnamon,Health Supplements,30,12.00
+M150,Garlic,Health Supplements,100,8.00
+M151,Onion,Health Supplements,90,6.00
+M152,Ginger,Health Supplements,80,10.00
+M153,Turmeric,Health Supplements,70,12.00
+M154,Black Pepper,Health Supplements,60,8.00
+M155,Sea Salt,Health Supplements,100,5.00
+M156,Himalayan Salt,Health Supplements,90,10.00
+M157,Coconut Sugar,Health Supplements,80,12.00
+M158,Maple Syrup,Health Supplements,70,15.00
+M159,Agave Nectar,Health Supplements,60,10.00
+M160,Stevia,Health Supplements,50,20.00
+M161,Erythritol,Health Supplements,40,15.00
+M162,Xylitol,Health Supplements,30,25.00
+M163,Sucralose,Health Supplements,20,30.00
+M164,Coconut Flour,Health Supplements,100,10.00
+M165,Almond Flour,Health Supplements,90,15.00
+M166,Chickpea Flour,Health Supplements,80,12.00
+M167,Whole Wheat Flour,Health Supplements,70,10.00
+M168,Oat Flour,Health Supplements,60,15.00
+M169,Corn Flour,Health Supplements,50,8.00
+M170,Rice Flour,Health Supplements,40,12.00
+M171,Sorghum Flour,Health Supplements,30,18.00
+M172,Arrowroot Flour,Health Supplements,20,20.00
+M173,Potato Starch,Health Supplements,100,10.00
+M174,Tapioca Starch,Health Supplements,90,12.00
+M175,Vanilla Extract,Health Supplements,80,15.00
+M176,Almond Extract,Health Supplements,70,20.00
+M177,Food Coloring,Health Supplements,60,8.00
+M178,Cocoa Butter,Health Supplements,50,12.00
+M179,Coconut Oil,Health Supplements,40,10.00
+M180,Shea Butter,Health Supplements,30,25.00
+M181,Beeswax,Health Supplements,20,20.00
+M182,Jojoba Oil,Health Supplements,100,15.00
+M183,Avocado Oil,Health Supplements,90,20.00
+M184,Argan Oil,Health Supplements,80,25.00
+M185,Sweet Almond Oil,Health Supplements,70,30.00
+M186,Hemp Seed Oil,Health Supplements,60,20.00
+M187,Apricot Kernel Oil,Health Supplements,50,15.00
+M188,Cypress Oil,Health Supplements,40,12.00
+M189,Lavender Oil,Health Supplements,30,15.00
+M190,Peppermint Oil,Health Supplements,20,12.00
+M191,Eucalyptus Oil,Health Supplements,10,15.00
+M192,Lemon Oil,Health Supplements,50,10.00
+M193,Tea Tree Oil,Health Supplements,60,18.00
+M194,Frankincense Oil,Health Supplements,70,25.00
+M195,Myrrh Oil,Health Supplements,80,20.00
+M196,Neroli Oil,Health Supplements,90,30.00
+M197,Chamomile Oil,Health Supplements,100,15.00
+M198,Rose Oil,Health Supplements,110,40.00
+M199,Cinnamon Oil,Health Supplements,120,20.00
+M200,Clove Oil,Health Supplements,130,15.00
+M201,Hemp,Health Supplements,140,30.00
+M202,Aloe,Health Supplements,150,25.00
+M203,Cabbage,Health Supplements,160,10.00
+M204,Spinach,Health Supplements,170,8.00
+M205,Kale,Health Supplements,180,12.00
+M206,Tomato,Health Supplements,190,5.00
+M207,Cucumber,Health Supplements,200,4.00
+M208,Carrot,Health Supplements,210,6.00
+M209,Broccoli,Health Supplements,220,8.00
+M210,Cauliflower,Health Supplements,230,10.00
+M211,Peas,Health Supplements,240,5.00
+M212,Green Beans,Health Supplements,250,6.00
+M213,Onion,Health Supplements,260,4.00
+M214,Ginger,Health Supplements,270,6.00
+M215,Garlic,Health Supplements,280,5.00
+M216,Mushroom,Health Supplements,290,10.00
+M217,Potato,Health Supplements,300,4.00
+M218,Radish,Health Supplements,310,3.00
+M219,Sweet Potato,Health Supplements,320,5.00
+M220,Yam,Health Supplements,330,4.00
+M221,Bell Pepper,Health Supplements,340,8.00
+M222,Cabbage,Health Supplements,350,6.00
+M223,Celery,Health Supplements,360,4.00
+M224,Beet,Health Supplements,370,5.00
+M225,Corn,Health Supplements,380,3.00
+M226,Sunflower,Health Supplements,390,2.50
+M227,Pumpkin,Health Supplements,400,3.00
+M228,Chia,Health Supplements,410,2.00
+M229,Hemp,Health Supplements,420,2.50
+M230,Sesame,Health Supplements,430,3.00
+M231,Papaya,Health Supplements,440,2.50
+M232,Mango,Health Supplements,450,3.00
+M233,Apple,Health Supplements,460,2.00
