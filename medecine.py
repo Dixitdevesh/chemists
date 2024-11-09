@@ -244,6 +244,8 @@ def generate_sales_report():
 
 def main():
     initialize_files()
+    print("Medical Shop Management System")
+    print("Created by Devesh Dixit\n")  
     while True:
         print("Welcome to Medical Shop Management System")
         print("1. Add Medicine")
